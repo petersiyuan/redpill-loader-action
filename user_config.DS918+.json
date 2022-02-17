@@ -1,11 +1,16 @@
 {
   "extra_cmdline": {
-    "vid": "0x46f4",
-    "pid": "0x0001",
-    "sn": "17A0PDN123456",
-    "mac1": "001132123456"
+    "vid": "0x0591",
+    "pid": "0x1665",
+    "sn": "1980PDN005166",
+    "mac1": "A8A15999A907"
+     "SataPortMap": "8",
+    "DiskIdxMap": "00"
   },
   "synoinfo": {
+    "internalportcfg" : "0xffff",
+    "maxdisks" : "16",
+	  "support_bde_internal_10g" : "no"
     "supportsystemperature": "no",
     "supportsystempwarning": "no"
   },
